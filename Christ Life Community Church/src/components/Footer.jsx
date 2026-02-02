@@ -39,7 +39,7 @@ const Footer = () => {
             <h3 className="text-white font-bold mb-3 sm:mb-4 font-playfair text-base sm:text-lg">Connect</h3>
             <div className="flex gap-3 sm:gap-4">
               <a 
-                href="https://www.facebook.com/christlifecommunitychurch" // needs to change
+                href="https://www.facebook.com" // needs to change
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-white hover:text-gold transition-colors text-xl sm:text-2xl"
@@ -48,7 +48,7 @@ const Footer = () => {
                 <FaFacebook />
               </a>
               <a 
-                href="https://www.instagram.com/christlifecommunitychurch" // needs to change
+                href="https://www.instagram.com" // needs to change
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-white hover:text-gold transition-colors text-xl sm:text-2xl"
@@ -66,7 +66,7 @@ const Footer = () => {
                 <FaYoutube />
               </a>
               <a 
-                href="https://twitter.com/christlifechurch" // needs to change
+                href="https://twitter.com" // needs to change
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-white hover:text-gold transition-colors text-xl sm:text-2xl"
@@ -90,3 +90,4 @@ const Footer = () => {
 };
 
 export default Footer;
+
