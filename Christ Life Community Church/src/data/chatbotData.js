@@ -9,10 +9,10 @@ export const churchInfo = {
   
   // Social media
   social: {
-    facebook: 'https://facebook.com/gracechurch', // needs to change
-    instagram: 'https://instagram.com/gracechurch',// needs to change
-    youtube: 'https://youtube.com/gracechurch',// needs to change
-    twitter: 'https://twitter.com/gracechurch'// needs to change
+    facebook: 'https://facebook.com', // needs to change
+    instagram: 'https://instagram.com',// needs to change
+    youtube: 'https://youtube.com',// needs to change
+    twitter: 'https://twitter.com'// needs to change
   },
   
   // Service times
@@ -192,3 +192,4 @@ export const keywords = {
   help: ['help', 'what can you do', 'assist', 'support'],
   prayerRequest: ['prayer request', 'pray for me', 'need prayer', 'prayer need']
 };
+
