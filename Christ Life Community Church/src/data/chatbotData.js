@@ -9,9 +9,9 @@ export const churchInfo = {
   
   // Social media
   social: {
-    facebook: 'https://facebook.com', // needs to change
-    instagram: 'https://instagram.com',// needs to change
-    youtube: 'https://youtube.com',// needs to change
+    facebook: 'https://www.facebook.com/people/Christlifecommunitychurch23/61587281015903/', // needs to change
+    instagram: 'https://www.instagram.com/thechristlifecommunitychurch23',// needs to change
+    youtube: 'https://www.youtube.com/@jesuschristofcorporates3481',// needs to change
     twitter: 'https://twitter.com'// needs to change
   },
   
@@ -192,4 +192,5 @@ export const keywords = {
   help: ['help', 'what can you do', 'assist', 'support'],
   prayerRequest: ['prayer request', 'pray for me', 'need prayer', 'prayer need']
 };
+
 
